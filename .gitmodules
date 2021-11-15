@@ -1,3 +1,15 @@
 [submodule "proj0-hello"]
 	path = proj0-hello
 	url = https://Tljessop@bitbucket.org/Tljessop/proj0-hello.git
+[submodule "proj1-pageserver"]
+	path = proj1-pageserver
+	url = https://Tljessop@bitbucket.org/Tljessop/proj1-pageserver.git
+[submodule "proj2-pageserver"]
+	path = proj2-pageserver
+	url = https://Tljessop@bitbucket.org/Tljessop/proj2-pageserver.git
+[submodule "proj3-jsa"]
+	path = proj3-jsa
+	url = https://Tljessop@bitbucket.org/Tljessop/proj3-jsa.git
+[submodule "proj4-brevets"]
+	path = proj4-brevets
+	url = https://Tljessop@bitbucket.org/Tljessop/proj4-brevets.git
